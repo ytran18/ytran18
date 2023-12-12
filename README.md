@@ -13,6 +13,7 @@
 I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳 
 
 <br />
+<br />
 <p>
    <a href="https://www.linkedin.com/in/như-ý-trần-095704258/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
