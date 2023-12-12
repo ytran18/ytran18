@@ -26,6 +26,7 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="tailwind" src="https://firebasestorage.googleapis.com/v0/b/ig-clone-6d3e1.appspot.com/o/ong%2FiconTailwind.png?alt=media&token=283b46eb-7fb2-4f88-9053-d4f3c2e46172"></code>
 <code><img height="20" alt="firebase" src="https://firebasestorage.googleapis.com/v0/b/ig-clone-6d3e1.appspot.com/o/ong%2FiconFirebase.png?alt=media&token=21f07e65-0b85-4571-84e4-b376a27ae56c"></code>
+<code><img height="20" alt="git" src="https://firebasestorage.googleapis.com/v0/b/ig-clone-6d3e1.appspot.com/o/ong%2FiconFirebase.png?alt=media&token=21f07e65-0b85-4571-84e4-b376a27ae56c"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 #### My Stats
@@ -41,3 +42,7 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ytran18&repo=mermaid-editor&theme=radical" />
 </a>
+
+### Listening
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315pyypvbahjzf5biennqdspv3ae)
