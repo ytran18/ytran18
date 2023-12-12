@@ -19,5 +19,9 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
 
 #### Top Repositories
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ytran18&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytran18&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ytran18&repo=notion-it-ver&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ytran18&repo=mermaid-editor&theme=radical" />
+</a>
