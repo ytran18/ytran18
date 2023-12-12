@@ -1,4 +1,15 @@
-<p align="center"><a href="[https://ynhutran84.vercel.app](https://ynhutran84.vercel.app)"><div>Hello, I'm Tran Nhu Y. I do open source!</div></a></p>
+```
+ __      __  ______  ____    ____    __  __  ____
+/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
+\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
+ \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
+  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
+   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
+    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
+
+```
+
+<p align="center"><a href="[https://ynhutran84.vercel.app](https://ynhutran84.vercel.app)"><div>Hello, I'm Tran Nhu Y!</div></a></p>
 
 <br />
 
