@@ -10,9 +10,6 @@
 ```
 
 <p align="center"><a href="[https://ynhutran84.vercel.app](https://ynhutran84.vercel.app)"><div>Hello, I'm Tran Nhu Y!</div></a></p>
-
-<br />
-
 I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳 
 
 <br />
