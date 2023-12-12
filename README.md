@@ -22,7 +22,9 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytran18&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
