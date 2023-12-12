@@ -10,7 +10,7 @@
 ```
 
 <h1>Hi there, I'm <a href="https://ynhutran84.vercel.app">Tran Nhu Y</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-I'm a self-taught passionate Front-end developer from Vietnam 🇻🇳 
+I'm a self-taught passionate Front-end Engineer from Vietnam 🇻🇳 
 
 <br />
 <br />
@@ -25,7 +25,7 @@ I'm a self-taught passionate Front-end developer from Vietnam 🇻🇳
 
 **About me**
 
-- 💼 FrontEnd Developer at [GitGam](http://gitgam.com/)
+- 💼 Front-end Engineer at [GitGam](http://gitgam.com/)
 - 🎨 Frontend engineer who loves React, TailwindCSS and Electron
 - 🔥 I really love the thrill of making what I want possible!
 
