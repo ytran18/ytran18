@@ -26,7 +26,7 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="tailwind" src="https://firebasestorage.googleapis.com/v0/b/ig-clone-6d3e1.appspot.com/o/ong%2FiconTailwind.png?alt=media&token=283b46eb-7fb2-4f88-9053-d4f3c2e46172"></code>
 <code><img height="20" alt="firebase" src="https://firebasestorage.googleapis.com/v0/b/ig-clone-6d3e1.appspot.com/o/ong%2FiconFirebase.png?alt=media&token=21f07e65-0b85-4571-84e4-b376a27ae56c"></code>
-<code><img height="20" alt="git" src="https://firebasestorage.googleapis.com/v0/b/ig-clone-6d3e1.appspot.com/o/ong%2FiconFirebase.png?alt=media&token=21f07e65-0b85-4571-84e4-b376a27ae56c"></code>
+<code><img height="20" alt="git" src="https://firebasestorage.googleapis.com/v0/b/ig-clone-6d3e1.appspot.com/o/ong%2FiconGit_1.png?alt=media&token=50490f0d-fb0e-4974-a5c5-4a3bb2aa2505"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 #### My Stats
