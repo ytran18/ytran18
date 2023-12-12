@@ -48,6 +48,4 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315pyypvbahjzf5biennqdspv3ae)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315pyypvbahjzf5biennqdspv3ae&count={10})
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315pyypvbahjzf5biennqdspv3ae&width={300})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315pyypvbahjzf5biennqdspv3ae&unique={true|1|on|yes})
