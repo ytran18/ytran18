@@ -42,7 +42,7 @@ I'm a self-taught passionate Front-end Engineer from Vietnam 🇻🇳
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ytran18&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytran18&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ytran18)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ytran18&theme=radical)](https://git.io/streak-stats)
 
 #### Top Repositories
 
