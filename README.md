@@ -12,6 +12,8 @@
 <h1>Hi there, I'm <a href="https://ynhutran84.vercel.app">Tran Nhu Y</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 I'm a self-taught passionate Front-end Engineer from Vietnam 🇻🇳 
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+
 <br />
 <br />
 <p>
