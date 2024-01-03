@@ -53,6 +53,3 @@ I'm a self-taught passionate Front-end Engineer from Vietnam 🇻🇳
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ytran18&repo=mermaid-editor&theme=radical" />
 </a>
 
-### Listening
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315pyypvbahjzf5biennqdspv3ae)
