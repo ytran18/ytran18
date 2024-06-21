@@ -25,7 +25,7 @@ I'm a self-taught passionate Front-end Engineer from Vietnam 🇻🇳
 
 **About me**
 
-- 💼 Front-end Engineer at [GitGam](http://gitgam.com/)
+- 💼 Front-end Engineer
 - 🎨 Frontend engineer who loves React, TailwindCSS and Electron
 - 🔥 I really love the thrill of making what I want possible!
 
