@@ -1,58 +1,64 @@
-```
- __      __  ______  ____    ____    __  __  ____
-/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
-\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
- \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
-  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
-   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
-    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+21188
+Fork on GitHub
+6608
 
-```
-![](https://komarev.com/ghpvc/?username=your-github-username&color=grey)
-<h1>Hi there, I'm <a href="https://ynhutran84.vercel.app">Tran Nhu Y</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-I'm a self-taught passionate Front-end Engineer from Vietnam 🇻🇳 
+back to edit
 
-<br />
-<br />
-<p>
-   <a href="https://www.linkedin.com/in/ytn18/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ytn76"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
- </p>
+copy-markdown
 
-<br />
-<br />
-<br />
+download markdown
 
-**About me**
+download backup
 
-- 💼 Front-end Engineer
-- 🎨 Frontend engineer who loves React, TailwindCSS and Electron
-- 🔥 I really love the thrill of making what I want possible!
+preview
+<h1 align="center">Hi 👋, I'm Tran Nhu Y</h1>
+<h3 align="center">I'm a self-taught passionate Front-end Engineer from Vietnam 🇻🇳</h3>
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="tailwind" src="https://firebasestorage.googleapis.com/v0/b/ig-clone-6d3e1.appspot.com/o/ong%2FiconTailwind.png?alt=media&token=283b46eb-7fb2-4f88-9053-d4f3c2e46172"></code>
-<code><img height="20" alt="firebase" src="https://firebasestorage.googleapis.com/v0/b/ig-clone-6d3e1.appspot.com/o/ong%2FiconFirebase.png?alt=media&token=21f07e65-0b85-4571-84e4-b376a27ae56c"></code>
-<code><img height="20" alt="git" src="https://firebasestorage.googleapis.com/v0/b/ig-clone-6d3e1.appspot.com/o/ong%2FiconGit_1.png?alt=media&token=50490f0d-fb0e-4974-a5c5-4a3bb2aa2505"></code>
-<code><img height="20" alt="mongo" src="https://firebasestorage.googleapis.com/v0/b/ig-clone-6d3e1.appspot.com/o/ong%2FiconMongoDB.png?alt=media&token=371f7e2f-8382-4ed1-ab2b-f4591d1c12bc"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ytran18&label=Profile%20views&color=0e75b6&style=flat" alt="ytran18" /> </p>
 
-#### My Stats
+- 👨‍💻 All of my projects are available at [https://ynhutran84.vercel.app/](https://ynhutran84.vercel.app/)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ytran18&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytran18&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
+- 📫 How to reach me **ynhutran84@gmail.com**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ytran18&theme=radical)](https://git.io/streak-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ytn18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ytn18" height="30" width="40" /></a>
+</p>
 
-#### Top Repositories
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ytran18&repo=note-mind-react&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ytran18&repo=form-flow&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhung1402&repo=ecweb_front&theme=radical" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ytran18&show_icons=true&locale=en&layout=compact" alt="ytran18" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ytran18&show_icons=true&locale=en" alt="ytran18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ytran18&" alt="ytran18" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
+1
